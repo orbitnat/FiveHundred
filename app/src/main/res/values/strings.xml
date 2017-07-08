@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Five Hundred</string>
+    <string name="recent_photo_list">Recent Photo List</string>
+    <string name="base_service_url">https://api.500px.com</string>
+    <string name="consumer_key">4gsTca1aAQZYZma0pRdDev59RrmroKy4ehHoRJUJ</string>
+
+    <string name="loading">Loading&#8230;</string>
+    <string name="common_error">There is technical error. Please try again later.</string>
+    <string name="photo">Photo</string>
+</resources>
